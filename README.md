@@ -121,10 +121,3 @@ I'm always open to interesting conversations — whether it's a technical rabbit
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manavkaneria)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavkaneria@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://gititmanav.github.io/personal-home-page)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gititmanav&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gititmanav&layout=compact&theme=dark&hide_border=true" height="150"/>
-</div>
