@@ -76,31 +76,6 @@
 
 ---
 
-## 🚀 Things I've Shipped
-
-### 🏦 ClearTrail — Cloud-Native Financial Operations Platform
-> `Node.js` · `Express (TypeScript)` · `Vue.js` · `MongoDB`
-
-A production-grade, multi-tenant financial ops platform automating accounting, inventory, and order workflows for manufacturing businesses. Built with double-entry accounting, real-time Balance Sheet & P&L generation, Indian GST support, hierarchical ledger groups, period locking, and MongoDB aggregation pipelines for instant financial analytics.
-
----
-
-### 📅 Java Calendar Application
-> `Java` · `Swing` · `SQLite`
-
-A fully functional Google Calendar clone with multi-calendar support, timezone-aware scheduling, recurring events, conflict handling, CSV/iCal export, and an interactive Swing GUI. Built strictly on SOLID principles and MVC architecture.
-
-🔗 [View Repo](https://github.com/gititmanav/Java-Calendar-Application--Google-Calendar-like-System-)
-
----
-
-### 🛣️ Lane Detection System
-> `Python` · `OpenCV`
-
-Computer vision pipeline for real-time road lane detection using Canny edge detection, Hough Transform, region-of-interest masking, and adaptive thresholding across varying lighting conditions.
-
----
-
 ## 📈 By The Numbers
 
 | Impact | Where |
